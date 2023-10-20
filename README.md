@@ -14,6 +14,8 @@ write industry level code
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/replit-%23F26207?style=for-the-badge&logo=replit&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JSON-%23000000?logo=json&logoColor=white)
+
 
 ### IDE
 

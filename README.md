@@ -5,6 +5,8 @@ new stuff and my strategy is Constant Improvement, and my current goal is to be 
 write industry level code
 
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/FLASK-%235A5A5A?style=for-the-badge&logo=flask&logoColor=white)
+
 
 
 

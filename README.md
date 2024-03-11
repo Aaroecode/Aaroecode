@@ -15,6 +15,11 @@ write industry level code
 ![Static Badge](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/replit-%23F26207?style=for-the-badge&logo=replit&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=json&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+
 
 
 ### IDE
@@ -29,6 +34,9 @@ write industry level code
 ### OS
 
 ![Static Badge](https://img.shields.io/badge/Windows-%230078D6?style=for-the-badge&logo=windows10)
+![Static Badge](https://img.shields.io/badge/macos-%23000000?style=for-the-badge&logo=macos&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
+
 
 
 
